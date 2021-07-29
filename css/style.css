@@ -1,0 +1,21 @@
+/* header section css */
+.head_bg {
+  background-color: #264653;
+}
+.head_text p {
+  color: #e0e0e0;
+}
+.purchase_bg {
+  background-color: #e76f51;
+}
+/* feture section css */
+.feture_bike {
+  height: 300px;
+  width: 200px;
+}
+
+/* Frequently Asked Questions section css */
+.faq_img img {
+  height: 300px;
+  width: 400px;
+}
